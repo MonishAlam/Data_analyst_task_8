@@ -1,0 +1,37 @@
+Order Date,Region,Category,Sales,Profit,Month-Year
+2023-01-31,West,Furniture,1500,300,Jan-2023
+2023-02-28,West,Office Supplies,2200,400,Feb-2023
+2023-03-31,West,Technology,3100,500,Mar-2023
+2023-04-30,West,Furniture,1800,350,Apr-2023
+2023-05-31,West,Office Supplies,2600,450,May-2023
+2023-06-30,West,Technology,3200,550,Jun-2023
+2023-07-31,West,Furniture,2100,320,Jul-2023
+2023-08-31,West,Office Supplies,2900,420,Aug-2023
+2023-09-30,West,Technology,3700,520,Sep-2023
+2023-10-31,West,Furniture,2000,310,Oct-2023
+2023-11-30,West,Office Supplies,2500,410,Nov-2023
+2023-12-31,West,Technology,3000,510,Dec-2023
+2023-01-31,East,Furniture,1500,300,Jan-2023
+2023-02-28,East,Office Supplies,2200,400,Feb-2023
+2023-03-31,East,Technology,3100,500,Mar-2023
+2023-04-30,East,Furniture,1800,350,Apr-2023
+2023-05-31,East,Office Supplies,2600,450,May-2023
+2023-06-30,East,Technology,3200,550,Jun-2023
+2023-07-31,East,Furniture,2100,320,Jul-2023
+2023-08-31,East,Office Supplies,2900,420,Aug-2023
+2023-09-30,East,Technology,3700,520,Sep-2023
+2023-10-31,East,Furniture,2000,310,Oct-2023
+2023-11-30,East,Office Supplies,2500,410,Nov-2023
+2023-12-31,East,Technology,3000,510,Dec-2023
+2023-01-31,South,Furniture,1500,300,Jan-2023
+2023-02-28,South,Office Supplies,2200,400,Feb-2023
+2023-03-31,South,Technology,3100,500,Mar-2023
+2023-04-30,South,Furniture,1800,350,Apr-2023
+2023-05-31,South,Office Supplies,2600,450,May-2023
+2023-06-30,South,Technology,3200,550,Jun-2023
+2023-07-31,South,Furniture,2100,320,Jul-2023
+2023-08-31,South,Office Supplies,2900,420,Aug-2023
+2023-09-30,South,Technology,3700,520,Sep-2023
+2023-10-31,South,Furniture,2000,310,Oct-2023
+2023-11-30,South,Office Supplies,2500,410,Nov-2023
+2023-12-31,South,Technology,3000,510,Dec-2023
